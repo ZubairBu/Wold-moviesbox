@@ -1,0 +1,6 @@
+{
+  "name": "World Movie",
+  "description": "A movie and anime streaming application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
